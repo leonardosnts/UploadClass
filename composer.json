@@ -1,0 +1,19 @@
+{
+    "name": "leonardo.santos/php",
+    "description": "PHP OO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Gabriel",
+            "email": "leonardo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
